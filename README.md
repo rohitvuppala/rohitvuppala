@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Suraj and 
+I'm Rohit Vuppala and 
 * :mortar_board: I'm a PhD student in Mechanical and Aerospace Engineering at the Oklahoma State University
 * :telescope: I'm currently working on developing machine learning based reduced order models and deep learning model for scientific problems 
 
