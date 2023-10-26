@@ -6,10 +6,30 @@ I'm Rohit Vuppala and
 
 ### Tech Stack
 
-* Python :snake: (Tensorflow, PyTorch, NumPy, SciPy, Pandas, Jupyter, scikit-learn, ...), 
-* C/C++ (MPI), FORTRAN (MPI), MATLAB 
+#### Programming languages
+* Python :snake: (Tensorflow, PyTorch, NumPy, SciPy, Pandas, Jupyter, scikit-learn, ...),
+* Julia
+* C/C++ (OpenMP, MPI)
+* FORTRAN (OpenMP, MPI)
+* MATLAB
+
+#### Computational
+* OpenFOAM
+* PALM,CM1
+* Nek5000
+* FENICS
+
+#### HPC Exp
+* Slurm, PBS, bash scripting
+* Univ. - Henry2, Pete
+* DOE - Polaris, Theta, Chicoma 
+* NCAR - Cheyenne, Casper
+* PSC - Bridges2
+
+#### Misc
 * LaTeX :bird:, Overleaf :leaves:, Markdown
-* Git, GitHub, Slurm
+* Git, Slurm
+
 
 
 <p>
