@@ -2,7 +2,8 @@
 
 I'm Rohit Vuppala and 
 * :mortar_board: I'm a PhD student in Mechanical and Aerospace Engineering at the Oklahoma State University
-* :telescope: I'm currently working on developing machine learning based reduced order models and deep learning model for scientific problems 
+* :telescope: I'm currently working on developing machine learning based reduced order models and deep learning model for scientific problems
+* 🔍 I'm currently looking for roles in developing Research Software and Machine Learning/AI techinques for scientific applications. 
 
 ### Tech Stack
 
