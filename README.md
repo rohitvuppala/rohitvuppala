@@ -31,7 +31,11 @@ I'm Rohit Vuppala and
 * LaTeX :bird:, Overleaf :leaves:, Markdown
 * Git, Slurm
 
-
+### Groups part of/active on
+* US-Research Software Engineers
+* ATPESC (2023)
+* American Physical Society
+* American Institute of Aeronautics and Astronautics
 
 <p>
 	<a href="#/"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitvuppala&layout=compact&hide_title=true" align="left"></a>
